@@ -1,0 +1,6 @@
+{
+  "name": "AquaSentinel",
+  "description": "AI-Powered Underwater Marine Intelligence & Cleanup System for global anomaly detection, acoustic sonar analysis, and mission planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
